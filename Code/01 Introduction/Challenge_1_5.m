@@ -3,6 +3,7 @@
 N=100000
 
 % set the random seed to 100 to ensure replication, using rng()
+% Note rng() is not available with online octave.
 rng(100)
 
 % create the random throws of 2 dice, using randi([L U],r,c)
