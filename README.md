@@ -20,6 +20,7 @@ __(1) Introduction to MATLAB__
 * *Lecture 01* -  **Introduction to MATLAB** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/01%20Introduction)
 [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/01%20Introduction)
 
-* *Lecture 02* -  **Logical Vectors and Arrays** [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/02%20Logical%20Vectors%20%26%20Arrays)
+* *Lecture 02* -  **Logical Vectors and Arrays**
+[(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/02%20Arrays) [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/02%20Logical%20Vectors%20%26%20Arrays)
 
 __(2) Functions in MATLAB__
