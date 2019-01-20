@@ -3,7 +3,7 @@ Repository for CT248 - Introduction to Modelling (using [MATLAB](https://uk.math
 
 This github site is a resource for Introduction to Modelling (CT248), a second year module that is taught to students in the  [B.Sc. (Computer Science and Information Technology)](http://www.nuigalway.ie/courses/undergraduate-courses/computer-science-and-information-technology.html), and the [BE (Energy Systems Engineering)](http://www.nuigalway.ie/courses/undergraduate-courses/energy-systems-engineering.html).
 
-The aim of the course is to provide students with an excellent working knowledge of MATLAB, and also provide application area examples from computer science and engineering. The course assumes previous coding experience (e.g. C, Java, JavaScript), and is structured into the following elements.
+The aim of the course is to provide students with a strong working knowledge of modelling with MATLAB, and also provide application area examples from computer science and engineering. The course assumes previous coding experience (e.g. C, Java, JavaScript), and is structured into the following elements.
 
 * Introduction to MATLAB (weeks 1-2)
 * Functions (weeks 3-4)
