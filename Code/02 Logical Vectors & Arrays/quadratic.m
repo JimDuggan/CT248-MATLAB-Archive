@@ -1,4 +1,4 @@
-% equation of a line
+% quadratic equation
 clear;
 
 a = 2; b = 20; c = -100;

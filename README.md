@@ -5,10 +5,10 @@ This github site is a resource for Introduction to Modelling (CT248), a second y
 
 The aim of the course is to provide students with a strong working knowledge of modelling with MATLAB, and also provide application area examples from computer science and engineering. The course assumes previous coding experience (e.g. C, Java, JavaScript), and is structured into the following elements.
 
-* Introduction to MATLAB (weeks 1-2)
-* Functions (weeks 3-4)
-* Linear Discrete Dynamical Systems
-* Image Processing with MATLAB
+* Introduction to MATLAB (Weeks 1-2)
+* Functions (Weeks 3-4)
+* Linear Discrete Dynamical Systems (Week 5)
+* Image Processing with MATLAB (Week 6)
 * Ordinary differential equations 
 * Simulink
 * Data Science with MATLAB
