@@ -24,3 +24,7 @@ __(1) Introduction to MATLAB__
 [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/02%20Arrays) [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/02%20Logical%20Vectors%20%26%20Arrays)
 
 __(2) Functions in MATLAB__
+
+* *Lecture 03* -  **Introduction to Functions** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/03%20Functions)
+[(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/03%20Functions)
+
