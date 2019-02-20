@@ -1,6 +1,6 @@
 % create a random binary image
 
-data = randi([0 1],40,100);
+data = randi([0 1],60,100);
 
 imshow(data);
 
