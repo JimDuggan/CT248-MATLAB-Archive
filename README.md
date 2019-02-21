@@ -9,7 +9,7 @@ The aim of the course is to provide students with a strong working knowledge of 
 * Functions (Weeks 3-4)
 * Linear Discrete Dynamical Systems (Week 5)
 * Image Processing with MATLAB (Week 6)
-* Ordinary differential equations 
+* Ordinary differential equations
 * Simulink
 * Data Science with MATLAB
 
@@ -43,4 +43,8 @@ __(4) Image Processing__
 * *Lecture 06* -  **Introduction to Image Procesisng** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/06%20Image%20Processing)
 [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/06%20Image%20Processing)
 
+__(5) Ordinary Differential Equations__
+
+* *Lecture 07* -  **Introduction to Integration** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/07%20Integration)
+[(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/07%20Integration)
 
