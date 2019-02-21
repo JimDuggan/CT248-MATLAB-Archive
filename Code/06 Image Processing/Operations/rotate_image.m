@@ -10,8 +10,9 @@ end
 
 
 
-subplot(2,1,1),imshow(I),title('Original Image');
-subplot(2,1,2),imshow(O_90),title('90 Rotation');
+subplot(1,3,1),imshow(I),title('Original Image');
+subplot(1,3,2),imshow(O_90),title('90 Rotation');
+subplot(1,3,3),imshow(I'),title('Transpose');
 
 
 
