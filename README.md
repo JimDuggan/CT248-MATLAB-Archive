@@ -28,3 +28,19 @@ __(2) Functions in MATLAB__
 * *Lecture 03* -  **Introduction to Functions** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/03%20Functions)
 [(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/03%20Functions)
 
+* *Lecture 04* -  **Exploring Functions** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/04%20Function%20Examples)
+[(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/04%20Functions)
+
+
+__(3) Linear Discrete Dynamical Systems__
+
+* *Lecture 05* -  **Leslie Model of Population Growth** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/05%20Linear%20Systems)
+[(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/05%20Linear%20Dynamics)
+
+
+__(4) Image Processing__
+
+* *Lecture 06* -  **Introduction to Image Procesisng** [(Materials)](https://github.com/JimDuggan/CT248/tree/master/Materials/Lectures/06%20Image%20Processing)
+[(Code)](https://github.com/JimDuggan/CT248/tree/master/Code/06%20Image%20Processing)
+
+
