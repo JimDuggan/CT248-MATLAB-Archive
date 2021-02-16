@@ -1,3 +1,4 @@
+clear;
 % Script file for converting temperatures from F to C
 % Taken from Essential MATLAB (D. Valentine) p 42
 

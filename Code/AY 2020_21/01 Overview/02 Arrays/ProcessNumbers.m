@@ -3,8 +3,9 @@ clear;
 sum = 0;
 
 n  = input ('How many numbers : ');
+s  = input ('Step size : ');
 
-for i = 1:n
+for i = 1:s:n
     num  = input ('Please enter a number : ');
     sum = sum + num;
 end
