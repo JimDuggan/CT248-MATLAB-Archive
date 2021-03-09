@@ -2,9 +2,13 @@ clear;
 
 mpg = readtable("mpg.xlsx");
 
+mpg.class = string(mpg.class);
+
 cl = unique(mpg.class);
 
-lv = string(mpg.class) == string(cl(2));
+lv = mpg.class == cl(2);
+
+test = find(lv==1);
 
 sub_mpg = mpg(lv,:);
 
