@@ -8,6 +8,8 @@ mpg.cty(1:3)
 
 mpg(1:3,{'cty' 'hwy'})
 
+summary(mpg);
+
 
 
 
