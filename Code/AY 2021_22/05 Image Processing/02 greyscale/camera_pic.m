@@ -1,0 +1,1 @@
+C = imread('cameraman.tif');
