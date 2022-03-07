@@ -1,0 +1,17 @@
+clear;
+
+global m_h; 
+weather = readtable("weather.xlsx");
+
+weather.datef = c2date(weather.date);
+
+q1 = weather.station=="MACE HEAD" & ...
+     weather.month==1;
+ 
+
+m_h = weather(q1,:);
+
+[G,Day] = findgroups(m_h.day);
+
+total_rain = splitapply(@test_split_apply,m_h.rain,G);
+
