@@ -16,4 +16,4 @@ total_rain = splitapply(@sum,m_h.rain,G);
 min_temp   = splitapply(@min,m_h.temp,G);
 max_temp   = splitapply(@max,m_h.temp,G);
 
-results = table(Day,total_rain);
+results = table(Day,total_rain, min_temp);

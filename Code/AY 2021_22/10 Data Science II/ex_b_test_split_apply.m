@@ -13,5 +13,6 @@ m_h = weather(q1,:);
 
 [G,Day] = findgroups(m_h.day);
 
-total_rain = splitapply(@test_split_apply,m_h.rain,G);
+total_rain = splitapply(@sum,m_h.rain,G);
+min_temp = splitapply(@min,m_h.temp,G);
 
