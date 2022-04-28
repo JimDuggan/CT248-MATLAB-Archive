@@ -1,4 +1,4 @@
-% show how you would perform the following queries from
+ % show how you would perform the following queries from
 % the mpg data set
 % explain how the filtering process works
 
