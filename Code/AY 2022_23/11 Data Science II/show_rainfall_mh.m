@@ -7,6 +7,8 @@ a17_c = a17(~isnan(a17.rain),:);
 % convert to string (station name)
 a17_c.station = string(a17_c.station);
 
+
+
 % extract MACE HEad
 a17_mh = a17_c(a17_c.station == "MACE HEAD" & a17_c.month==1,:);
 
