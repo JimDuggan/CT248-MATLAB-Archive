@@ -1,6 +1,6 @@
-beta = linspace(1,4,5);
+beta = linspace(1,4,30);
 
-gamma = linspace(1/5,1,5);
+gamma = linspace(1/5,1,30);
 
 
 for i = beta

@@ -2,7 +2,7 @@ X = imread("cameraman.tif");
 
 p1 = X * 1.2;
 
-p2 = X>100;
+p2 = X>50;
 
 subplot(1,3,1);
 imshow(X);
