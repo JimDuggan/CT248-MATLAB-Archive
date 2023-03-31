@@ -17,6 +17,7 @@ W.Properties.VariableNames = {'Station', ...
                               'Temp'};
 
 DayMin = W(W.Temp==min(W.Temp),:);
+DayMax = W(W.Temp==max(W.Temp),:);
 
 q_mh = W.Station=="MACE HEAD" & ...
        W.Month==DayMin.Month & ...
@@ -28,6 +29,7 @@ q_da = W.Station=="DUBLIN AIRPORT" & ...
  
 
 m_h = W(q_mh,:);
+
 d_a = W(q_da,:);
 
 
@@ -38,3 +40,4 @@ plot(d_a.Hour,d_a.Temp,"-ob");
 legend('Mace Head','Dublin Airport');
 grid on;
 hold off;
+
